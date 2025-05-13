@@ -14,7 +14,7 @@ SurVis is used to organize and explore these papers interactively.
 
 ## 🔗 Live SurVis Page
 
-👉 [View the SurVis Literature Browser](https://github.com/Axt0n0416/COMP4037cw3)  
+👉 [View the SurVis Literature Browser](https://axt0n0416.github.io/COMP4037cw3/src/index.html)  
 
 ## 📊 Supplementary Figures
 
