@@ -66,4 +66,4 @@ This project is for academic coursework only and is not intended for commercial 
 
 ---
 
-**Created for COMP4037 – Research Methods @ University of [Your Uni]**
+**Created for COMP4037 – Research Methods @ University of Nottingham
